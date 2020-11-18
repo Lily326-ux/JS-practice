@@ -71,3 +71,32 @@ var myName = "Lily ";
 var mySurname = "Omelchuk,";
 var myAge = " 19 years old.";
 console.log(myName + mySurname + myAge);
+
+//The Sixth Task 
+
+var stringFive = 5;
+var numberSix  = "6";
+console.log(stringFive + numberSix);
+
+var num = 19;
+var stringAge = " years old."
+console.log(num + stringAge); 
+
+//The Seventh Task 
+
+var stringNum = Number("7");
+var num = 11;
+console.log(stringNum + num);
+
+//The Eighth Task 
+
+var stringGreeting = "Hello ";
+var stringNotANumber = Number("world!");
+console.log(stringGreeting + stringNotANumber);
+/*isNaN(Number = stringNotANumber);
+console.log*/
+
+//The Ninth Task 
+
+var aboutMe = "My name is Lily";
+console.log(aboutMe.length);
